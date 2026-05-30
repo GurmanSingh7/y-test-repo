@@ -2,18 +2,13 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V3dGxqMWh2bHd0eGV6dWNqN2duM3hoZXF3MjVvN2t2eGR0eWZ2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="100%">
-
-# 🎯 YOLO TEST
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Real-Time+Object+Detection;YOLO+Inference;Bounding+Boxes+%26+Confidence;Fast+%7C+Accurate+%7C+Lightweight" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=YOLO%20TEST&fontSize=70&animation=fadeIn&fontAlignY=40&color=0:00C9FF,100:92FE9D"/>
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![Status](https://img.shields.io/badge/ACTIVE-success?style=for-the-badge)
+<img src="https://img.shields.io/badge/YOLO-Vision-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenCV-Detection-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-AI-yellow?style=for-the-badge">
 
 </div>
 
@@ -21,20 +16,9 @@
 
 <div align="center">
 
-## ⚡ LIVE DETECTION
+### 🎥 LIVE DETECTION
 
-<img src="assets/demo.gif" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔍 DETECTED OBJECTS
-
-<img src="assets/detection1.png" width="45%">
-<img src="assets/detection2.png" width="45%">
+<img src="./assets/demo.gif" width="900">
 
 </div>
 
@@ -42,12 +26,65 @@
 
 <div align="center">
 
-## 🚀 PIPELINE
+<img src="./assets/result1.png" width="48%">
+<img src="./assets/result2.png" width="48%">
 
-```mermaid
-flowchart LR
+</div>
 
-A[📷 Image] --> B[🧠 YOLO]
-B --> C[📦 Detection]
-C --> D[🎯 Bounding Boxes]
-D --> E[✅ Result]
+---
+
+<div align="center">
+
+```text
+📷 IMAGE
+    │
+    ▼
+🧠 YOLO MODEL
+    │
+    ▼
+📦 OBJECT DETECTION
+    │
+    ▼
+🎯 BOUNDING BOXES
+    │
+    ▼
+✅ OUTPUT
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/sample1.gif" width="31%">
+<img src="./assets/sample2.gif" width="31%">
+<img src="./assets/sample3.gif" width="31%">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️
+
+<img src="https://skillicons.dev/icons?i=python,opencv,vscode,git,github"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/final-demo.gif" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00C9FF,100:92FE9D"/>
+
+</div>
