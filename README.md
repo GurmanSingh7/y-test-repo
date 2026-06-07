@@ -8,7 +8,7 @@ Y_test Repo Badge
 <br>
 
 <img src="https://img.shields.io/badge/YOLO-Vision-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/OpenCV-Detection-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenCV-Detection-success?style=for-the-badge">  
 <img src="https://img.shields.io/badge/Python-AI-yellow?style=for-the-badge">
 
 </div>
